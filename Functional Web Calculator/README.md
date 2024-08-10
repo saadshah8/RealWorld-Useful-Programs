@@ -9,4 +9,4 @@ This is a webpage calculator Structured and designed using HTML/CSS with the add
 
 📌 On wrong entry of operator it indicates the user to enter the right operator.
 
-<img width="400" src="view.jpeg" alt="saadshah8">
+<img width="400" src="View.png" alt="saadshah8">
