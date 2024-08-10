@@ -1,0 +1,16 @@
+
+	Id : 2
+	Name : muhammad hassaan
+	Age : 15
+	DOB : 13-07-03
+	Gender : m
+	Appointment For : neuro Checkup
+	Appointment with : Dr.Uzaif
+	Days stayed : 2
+	Doctor's Fee : 2500 Rs
+	Hospital Charges per Day:
+		 ~ Room Charges: 3500 Rs 
+		 ~ Medications: 1000 Rs 
+		 ~ Others: 500 Rs 
+	*********************************
+	Net Charges : 12500
